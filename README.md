@@ -25,4 +25,4 @@ cd retroflag-picase-raspberrypi-os
 
 6. Install Pi Case Safe Shutdown Script and type:
 
-sudo ./install.sh
+sudo bash ./install.sh
